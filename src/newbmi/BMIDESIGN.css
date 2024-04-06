@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 2, 2024, 12:09:21 PM
+    Author     : Achaasa
+*/
+.body{
+    -fx-background-color:linear-gradient(to right top,#9D4AF6,#7140DD ); 
+}
+
+  
+
+.textfield{
+    -fx-text-fill:#fff;
+}
+
+.textfield:placeholder{
+    -fx-text-fill:#fff;
+}
+.text{
+    -fx-text-fill:#fff;
+    -fx-letter-spacing:100px;
+}
